@@ -1,1 +1,118 @@
 # github-tutorial
+# Welcome to GitHub Desktop!
+
+This is your README. READMEs are where you can communicate what your project is and how to use it.
+
+Write your name on line 6, save it, and then head back to GitHub Desktop.
+<!DOCTYPE html >
+< html  lang =" uk " >
+  < голова >
+    < meta  charset =" UTF-8 " />
+    < meta  name =" viewport " content =" width=device-width, initial-scale=1.0 " />
+    < title > Dev-studio </ title >
+  </head> _ _
+  < тіло >
+    <!--Шапка сайту-->
+    < заголовок >
+      < nav >
+        < a  href =" ./index.html " > DevStudio </ a >
+        < ul >
+          < li > < a  href =" ./about.html " > Про нас </ a > </ li >
+          < li > < a  href =" ./portfolio.html " > Портфоліо </ a > </ li >
+          < li > < a  href =" ./contacts.html " > Контакти </ a > </ li >
+        </ ul >
+      </ nav >
+      < ul >
+        < li > < a  href =" mailto:info@devstudio.com " > info@devstudio.com </ a > </ li >
+        < li > < a  href =" tel:+380680001100 " > +38 068 000 11 00 </ a > </ li >
+      </ ul >
+    </ header >
+    <!--Герой-->
+    < головна >
+      < розділ >
+        < h1 >
+          Ми створюємо легкі рішення < br />складних завдань для вашого бізнесу
+        </ h1 >
+        < button  type =" button " > Замовити послугу </ button >
+      </ section >
+      <!--Наші переваги-->
+      < розділ >
+        < h2 > Наші переваги </ h2 >
+        < ul >
+          < li >
+            < h3 > увага до деталей </ h3 >
+            <p> _ _
+              Lorem Ipsum - це текст-"риба", який часто використовується у
+              веб-дизайні.
+            </ p >
+          </ li >
+          < li >
+            < h3 > пунктуальність </ h3 >
+            <p> _ _
+              Lorem Ipsum є стандартною "рибою" для текстів на латиниці з
+              початку XVI ст.
+            </ p >
+          </ li >
+          < li >
+            < h3 > планування </ h3 >
+            <p> _ _
+              Lorem Ipsum - це текст-"риба", який часто використовується у
+              веб-дизайні.
+            </ p >
+          </ li >
+          < li >
+            < h3 > Сучасні технології </ h3 >
+            <p> _ _
+              Lorem Ipsum є стандартною "рибою" для текстів на латиниці з
+              початку XVI ст.
+            </ p >
+          </ li >
+        </ ul >
+      </ section >
+      <!--Роботи на яких ми спеціалізуємось-->
+      < розділ >
+        < h2 > Роботи на яких спеціалізуємося </ h2 >
+        < ul >
+          < li >
+            < малюнок
+              src =" images/works/box1.jpg "
+              src =" ./ images/works/box1.jpg "
+              alt =" Приклад роботи "
+              висота =" 294 "
+              ширина =" 370 "
+            />
+          </ li >
+          < li >
+            < малюнок
+              src =" images/works/box2.jpg "
+              src =" ./ images/works/box2.jpg "
+              alt =" Приклад роботи "
+              висота =" 294 "
+              ширина =" 370 "
+            />
+          </ li >
+          < li >
+            < малюнок
+              src =" images/works/box3.jpg "
+              src =" ./ images/works/box3.jpg "
+              alt =" Приклад роботи "
+              висота =" 294 "
+              ширина =" 370 "
+@@ -145,7 +145,7 @@ <h2>Наша команда</h2>
+    < нижній колонтитул >
+      < a  href =" /index.html " > DevStudio </ a >
+      < адреса >
+        < a href ="" > м. Харків, вул. Ярослава Мудрого, 18 </ a > 
+        < p > м. Харків, вул. Ярослава Мудрого, 18 </ p >
+        < ul >
+          < li >
+            < a  href =" mailto:info@devstudio.com " > info@devstudio.com </ a >
+          </ li >
+          < li >
+            < a  href =" tel:+380680001100 " > +38 068 000 11 00 </ a >
+          </ li >
+        </ ul >
+      </ адреса >
+    </ footer >
+  </body> _ _
+</ html >
